@@ -1,0 +1,15 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: azure;
+    color: black;
+    border: 1px solid blacks;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
